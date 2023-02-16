@@ -1,0 +1,17 @@
+.donghonb img{
+    width: 20%;
+    /* position: relative;
+    display: inline; */
+}
+.my_oclock {
+    display: flex;
+}
+.show {
+    display: flex;
+    flex-direction: row;
+}
+
+.donghonb #hinh_anh img{
+    width: 10em;
+    margin: 50px;
+}
